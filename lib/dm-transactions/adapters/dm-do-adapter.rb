@@ -1,4 +1,3 @@
-p "load Transaction::DataObjectsAdapter"
 module DataMapper
   class Transaction
 
